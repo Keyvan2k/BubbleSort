@@ -1,5 +1,5 @@
-#ifndef MOSTRAMESE_H_INCLUDED
-#define MOSTRAMESE_H_INCLUDED
+#ifndef BUBBLESORT_H_INCLUDED
+#define BUBBLESORT_H_INCLUDED
 
 void bubbleSort(int a[])
 
