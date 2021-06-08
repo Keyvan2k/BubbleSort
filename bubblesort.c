@@ -1,7 +1,6 @@
 #include "bubblesort.h"
 
-// funzione per riordinare gli elementi tramite bubble sort
-void bubbleSort(int a[])
+void bubbleSort(int a[], int SIZE)
 {
     //  ciclo dei numeri passati
     for (unsigned int pass = 1; pass  < SIZE; ++pass)
