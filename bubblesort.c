@@ -1,5 +1,5 @@
 #include "bubblesort.h"
-void swap(int *element1,*element2){
+void swap(int *element1,int *element2){
     int hold;
     hold = *element1;
     *element1 = element2;
